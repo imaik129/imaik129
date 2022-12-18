@@ -3,7 +3,9 @@
 <h2> 🔗 About me 👀  </h2>
 - 🏫 BA. Double major in Computer Science 💻 & Studio Arts 🎨
 <br>
-- 🌱 I'm interested in Full-stack, Front-end, Product Design, Product Management, UI/UX design, Entrepreneurship, and Data Visualization! 
+- 🌱 I'm interested in Full-stack, Front-end, Product Design, Product Management, UI/UX design, Entrepreneurship, and Data Visualization!
+<br>
+- 😊 Check out my <a href="https://kyosukeimai.me">Personal Website </a> for more information!
 
 <h2> 🔗 Portfolio 📋: </h2>
 
