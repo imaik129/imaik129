@@ -36,7 +36,10 @@
 
   - A graphics engine using Triangle Rasterization in software, hardware, and ray tracing for CS311. We used Vulkan and C to implement the engine. 
 
-  
+<p> <a href="https://github.com/imaik129/Page-Rank-Implementation">Simple Page Rank Implementation 🔍</a> (in progress) <p> 
+
+  - A simple Google Page Rank Implementation using python. 
+
 <p> <a href="">Ranklist: A Platform to Request For Spotify Playlists  🌐</a> (in progress) <p> 
 
   - A web application to request spotify playlists in a specific format built using react/next.js, graphQL, and tailwind. 
