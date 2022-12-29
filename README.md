@@ -40,7 +40,7 @@
 
   - A simple Google Page Rank Implementation using python. 
 
-<p> <a href="">Ranklist: A Platform to Request For Spotify Playlists  🌐</a> (in progress) <p> 
+<p> <a href="https://github.com/imaik129/ranklist">Ranklist: A Platform to Request For Spotify Playlists  🌐</a> (in progress) <p> 
 
   - A web application to request spotify playlists in a specific format built using react/next.js, graphQL, and tailwind. 
 
