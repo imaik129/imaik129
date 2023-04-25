@@ -24,7 +24,7 @@
   - A physical Mood box built using an arduino, python, the Spotify API, and C++. The mood box activates different phyiscal rooms depending on the current song being played.
   
  
-<p> <a href="https://github.com/imaik129/Spotify-Mood-Box">  Interepreter for Scheme 🐪 </a> <p> 
+<p> <a href="https://github.com/imaik129/Interpreter-for-Scheme">  Interepreter for Scheme 🐪 </a> <p> 
 
   - An interpreter for the Scheme programming language in C. 
 
