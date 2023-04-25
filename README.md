@@ -39,6 +39,10 @@
 <p> <a href="https://github.com/imaik129/Page-Rank-Implementation">Simple Page Rank Implementation 🔍
 
   - A simple Google Page Rank Implementation using python. 
+   
+<p> <a href="https://github.com/imaik129/findSongGPT">FindSongGPT: A Web Application that uses the GPT-4 API 🎸</a> (in progress) <p> 
+
+  - A web application to request spotify playlists in a specific format built using react/next.js, graphQL, and tailwind. 
 
 <p> <a href="https://github.com/imaik129/ranklist">Ranklist: A Platform to Request For Spotify Playlists  🌐</a> (in progress) <p> 
 
