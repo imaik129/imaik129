@@ -15,7 +15,7 @@
 
 <p> <a>Finternz</a> <p> 
    
-  -Internship-posting website with 10,000 active monthly users using Next.js, Tailwind, Redis, PostgreSQL.
+  - Internship-posting website with 10,000 active monthly users using Next.js, Tailwind, Redis, PostgreSQL.
 
 <p> <a>The Plugged App</a> <p> 
    
@@ -26,7 +26,7 @@
   -Event posting website used by close to 40% of university using React Native.
 
 <p> <a>Kasamo</a> <p> 
-  - A financial education platform using Flutter, tailwind, mySQl.
+- A financial education platform using Flutter, tailwind, mySQl.
 
 <p> <a>Spirofy: Spotify Playlist Visualizer  🎵</a> <p> 
    
