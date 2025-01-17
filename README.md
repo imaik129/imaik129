@@ -5,7 +5,6 @@
 <br>
 - 🌱 I'm interested in Full-stack, Front-end, Product Design, Product Management, UI/UX design, Entrepreneurship, and Data Visualization!
 <br>
-- 😊 Check out my <a href="https://kyosukeimai.me">Personal Website </a> for more information!
 
 <h2> 🔗 Portfolio 📋: </h2>
 
@@ -15,11 +14,11 @@
 
   
   
-<p> <a href="https://github.com/imaik129/Spotify-Web-App"> Spotify Web Directory  📚</a> <p> 
+<p> <a > Spotify Web Directory  📚</a> <p> 
 
   - A Spotify Web Directory build using plain javascript, HTML, postgreSQL, and CSS. The application allows you to search through the Spotify Kraggle Dataset, sort songs by characteristics, create playlists, compare playlists in a visual manner, and download playlists as a CSV file.  
  
-<p> <a href="https://github.com/imaik129/Spotify-Mood-Box"> Spotify Mood Box  🎁</a> <p> 
+<p> <a > Spotify Mood Box  🎁</a> <p> 
 
   - A physical Mood box built using an arduino, python, the Spotify API, and C++. The mood box activates different phyiscal rooms depending on the current song being played.
   
@@ -28,11 +27,11 @@
 
   - An interpreter for the Scheme programming language in C. 
 
-<p> <a href="https://github.com/imaik129/Word-cloud/tree/main"> World Cloud Maker  🌥️</a> <p> 
+<p> <a> World Cloud Maker  🌥️</a> <p> 
 
   - A world cloud maker built using Java. 
 
-<p> <a href="https://github.com/imaik129/Word-cloud/tree/main"> 3D Graphics Engine 🌲</a> <p> 
+<p> <a> 3D Graphics Engine 🌲</a> <p> 
 
   - A graphics engine using Triangle Rasterization in software, hardware, and ray tracing for CS311. We used Vulkan and C to implement the engine. 
 
@@ -40,11 +39,11 @@
 
   - A simple Google Page Rank Implementation using python. 
    
-<p> <a href="https://github.com/imaik129/findSongGPT">FindSongGPT: A Web Application that uses the GPT-4 API 🎸</a> (in progress) <p> 
+<p> <a >FindSongGPT: A Web Application that uses the GPT-4 API 🎸</a> (in progress) <p> 
 
   - A web application to request spotify playlists in a specific format built using react/next.js, graphQL, and tailwind. 
 
-<p> <a href="https://github.com/imaik129/ranklist">Ranklist: A Platform to Request For Spotify Playlists  🌐</a> (in progress) <p> 
+<p> <a">Ranklist: A Platform to Request For Spotify Playlists  🌐</a> (in progress) <p> 
 
   - A web application to request spotify playlists in a specific format built using react/next.js, graphQL, and tailwind. 
 
