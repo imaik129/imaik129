@@ -10,27 +10,27 @@
 
 <p> <a>NLP Research under Amy Csizmar Dalal</a> <p> 
    
--Utilized NLP to define interactions by help-seekers and help-givers in the context of technology support, analyzing a dataset containing ten years' worth of online help desk data.
-- Employed sentiment analysis(VADER), automated the pre-processing of multiple data files, and ran simple data analysis + visualizations using Pandas and D3.js.
+  - Utilized NLP to define interactions by help-seekers and help-givers in the context of technology support, analyzing a dataset containing ten years' worth of online help desk data.
+  - Employed sentiment analysis(VADER), automated the pre-processing of multiple data files, and ran simple data analysis + visualizations using Pandas and D3.js.
 
 <p> <a>Finternz</a> <p> 
    
--Internship-posting website with 10,000 active monthly users using Next.js, Tailwind, Redis, PostgreSQL.
+  -Internship-posting website with 10,000 active monthly users using Next.js, Tailwind, Redis, PostgreSQL.
 
 <p> <a>The Plugged App</a> <p> 
    
--Mobile app that raised $100,000 using the Ionic framework.
+  - Mobile app that raised $100,000 using the Ionic framework.
 
 <p> <a>The Flyer App</a> <p> 
    
--Event posting website used by close to 40% of university using React Native.
+  -Event posting website used by close to 40% of university using React Native.
 
 <p> <a>Kasamo</a> <p> 
-A financial education platform using Flutter, tailwind, mySQl.
+  - A financial education platform using Flutter, tailwind, mySQl.
 
 <p> <a>Spirofy: Spotify Playlist Visualizer  🎵</a> <p> 
    
-- A playlist visuaizer built using react/next.js, tailwind, p5.js, and the Spotify API. The shape/size/patterns of the spirographs correspond to playlist data retrieved by averaging all song data in a selected playlist. 
+  - A playlist visuaizer built using react/next.js, tailwind, p5.js, and the Spotify API. The shape/size/patterns of the spirographs correspond to playlist data retrieved by averaging all song data in a selected playlist. 
 
   
   
