@@ -1,7 +1,7 @@
 <h2>🔗 Hi, I’m Kyosuke!👋 </h2>
 
 <h2> 🔗 About me 👀  </h2>
-- 🏫 BA. Double major in Computer Science 💻 & Studio Arts 🎨
+- 🏫 Double major in Computer Science 💻 & Studio Arts 🎨
 <br>
 - 🌱 I'm interested in Full-stack, Front-end, Product Design, Product Management, UI/UX design, Entrepreneurship, and Data Visualization!
 <br>
