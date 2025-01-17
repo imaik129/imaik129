@@ -8,7 +8,7 @@
 
 <h2> 🔗 Portfolio 📋: </h2>
 
-<p> <a href="">Spirofy: Spotify Playlist Visualizer  🎵</a> <p> 
+<p> <a>Spirofy: Spotify Playlist Visualizer  🎵</a> <p> 
    
 - A playlist visuaizer built using react/next.js, tailwind, p5.js, and the Spotify API. The shape/size/patterns of the spirographs correspond to playlist data retrieved by averaging all song data in a selected playlist. 
 
