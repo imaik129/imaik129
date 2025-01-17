@@ -23,10 +23,10 @@
 
 <p> <a>The Flyer App</a> <p> 
    
-  -Event posting website used by close to 40% of university using React Native.
+  - Event posting website used by close to 40% of university using React Native.
 
 <p> <a>Kasamo</a> <p> 
-- A financial education platform using Flutter, tailwind, mySQl.
+  - A financial education platform using Flutter, tailwind, mySQl.
 
 <p> <a>Spirofy: Spotify Playlist Visualizer  🎵</a> <p> 
    
