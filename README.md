@@ -3,7 +3,7 @@
 <h2> 🔗 About me 👀  </h2>
 - 🏫 Double major in Computer Science 💻 & Studio Arts 🎨
 <br>
-- 🌱 I'm interested in Full-stack, Front-end, Product Design, Product Management, UI/UX design, Entrepreneurship, and Data Visualization!
+- 🌱 I'm interested in Full-stack, Product Design, Product Management, UI/UX design, Entrepreneurship, and Data Visualization!
 <br>
 
 <h2> 🔗 Portfolio 📋: </h2>
